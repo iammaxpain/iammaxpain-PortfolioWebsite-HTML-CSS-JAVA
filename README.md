@@ -87,8 +87,7 @@
 
 
 ------
-Credit: [hashfx](https://github.com/hashfx) <br />
-Last Edited On: 10/07/2022
+Credit: [iammaxpain](https://github.com/iammaxpain) <br />
 
 ![preview img](/preview.png)
 
